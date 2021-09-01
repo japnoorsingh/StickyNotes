@@ -1,6 +1,6 @@
 # StickyNotes
 StickyNotes WebApp using HTML ,CSS, Bootstrap and JS
-- Japnoor Singh
+By Japnoor Singh
 
 - Click Create Note button to add a new note.
 - Press the tick mark button to add the note.
